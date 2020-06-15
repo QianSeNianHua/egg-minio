@@ -1,4 +1,4 @@
-# @lemonblog/egg-minio
+# @qiansenianhua/egg-minio
 
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
@@ -27,7 +27,7 @@ Description here.
 ## Install
 
 ```bash
-$ npm install @lemonblog/egg-minio --save
+$ npm install @qiansenianhua/egg-minio --save
 ```
 
 ## Usage
@@ -36,7 +36,7 @@ $ npm install @lemonblog/egg-minio --save
 // {app_root}/config/plugin.js
 exports.minio = {
   enable: true,
-  package: '@lemonblog/egg-minio',
+  package: '@qiansenianhua/egg-minio',
 };
 ```
 

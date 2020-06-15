@@ -1,6 +1,6 @@
 {
-  "name": "@lemonblog/egg-minio",
-  "version": "1.0.1",
+  "name": "@qiansenianhua/egg-minio",
+  "version": "1.0.0",
   "description": "对象存储器MinIO",
   "eggPlugin": {
     "name": "minio"
@@ -56,6 +56,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/QianSeNianHua/lemonblog_service.git"
+    "url": "https://github.com/QianSeNianHua/egg-minio"
   }
 }
