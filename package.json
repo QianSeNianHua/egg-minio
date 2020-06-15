@@ -1,6 +1,6 @@
 {
   "name": "@qiansenianhua/egg-minio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "对象存储器MinIO",
   "eggPlugin": {
     "name": "minio"
